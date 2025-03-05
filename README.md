@@ -120,5 +120,6 @@ jupyter notebook
 
 📌 **Contributions & Feedback are Welcome!** If you find this project useful or have ideas for improvement, feel free to open an issue or submit a pull request.
 
-🔗 **Check out the full project on GitHub: [[Insert GitHub Link Here]**](https://github.com/Samuel-adeboje/Stock-Market-Analysis/blob/main/Stock%20Market%20Analysis%20Report.pdf)
+🔗 **Check out the full project on GitHub: https://github.com/Samuel-adeboje/Stock-Market-Analysis/blob/main/Stock%20Market%20Analysis%20Report.pdf
 
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/samuel-adeboje-368320330/
