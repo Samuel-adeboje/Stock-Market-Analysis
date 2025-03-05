@@ -41,18 +41,25 @@ The dataset was obtained from Yahoo Finance using the `yfinance` Python library.
 ## **4. Key Insights & Findings**
 📊 **Stock Trends:**
 - Tesla (TSLA) exhibited high volatility, while Apple (AAPL) showed more stable growth.
+ 
 ![4](https://github.com/user-attachments/assets/7e7f1c17-5283-433e-bfc2-fb80740aca1c)
+
 
 📉 **Risk vs. Return:**
 - Tesla had the highest potential returns but also the highest volatility.
+
 ![6](https://github.com/user-attachments/assets/b2597317-48af-48a0-a7cd-3c956c278682)
+
 
 🔄 **Correlation Analysis:**
 - Weak positive correlations between AAPL, AMZN, and TSLA, indicating portfolio diversification benefits.
 - AAPL & AMZN = 0.34 → Weak positive correlation
 - AAPL & TSLA = 0.33 → Weak positive correlation
 - AMZN & TSLA = 0.32 → Weak positive correlation
+
+ 
 ![5](https://github.com/user-attachments/assets/ca5cfef4-7bde-461e-8bd1-30b5bcabfda7)
+
 
 📈 **Sharpe Ratio Calculation:**
 - Apple and Amazon provided **better risk-adjusted returns** compared to Tesla.
@@ -113,5 +120,5 @@ jupyter notebook
 
 📌 **Contributions & Feedback are Welcome!** If you find this project useful or have ideas for improvement, feel free to open an issue or submit a pull request.
 
-🔗 **Check out the full project on GitHub: [Insert GitHub Link Here]**
+🔗 **Check out the full project on GitHub: [[Insert GitHub Link Here]**](https://github.com/Samuel-adeboje/Stock-Market-Analysis/blob/main/Stock%20Market%20Analysis%20Report.pdf)
 
